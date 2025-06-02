@@ -18,7 +18,7 @@ Buffering Error Fix: Disable battery optimisation settings.
 
 ## *Download*
 
-### *YoutubeReVanced (v20.21.52)*
+### *YoutubeReVanced (v20.22.52)*
 [*FullVersion*](https://github.com/dekthaiinchina/YoutubeReVanced/releases/download/v1.0/com.android.youtube.vanced-202152.apk)
 <br />
 
